@@ -29,4 +29,7 @@ import fdb
 # Адрес сервера на котором рсположена база данных.
 # Server = 'localhost'
 
-print ('Ghbdtn')
+# Вывод приветствия.
+print ('Скрипт Kronwerk_DB_Output ver.' + Versiona)
+print ('Реализован на языке программирования Python v.3.4.2')
+print ('\n')
